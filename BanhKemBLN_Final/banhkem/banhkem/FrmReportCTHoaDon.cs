@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -35,7 +35,8 @@ namespace banhkem
 
         private void FrmReportCTHoaDon_Load(object sender, EventArgs e)
         {
-               //Tạo tham số để sau này truyền vào Report
+            //Tạo tham số để sau này truyền vào Report
+
             ReportParameter[] param = new ReportParameter[7];
             param[0] = new ReportParameter("paraNgayGio", hd.NgayLap.ToString());
             param[1] = new ReportParameter("paraSoHD", "HD" + hd.MaHD.ToString());
@@ -44,13 +45,15 @@ namespace banhkem
             param[4] = new ReportParameter("paraTienThoi", hd.TienThoi.ToString());
             param[5] = new ReportParameter("paraTienKhachTra", hd.TienKhachTra.ToString());
             param[6] = new ReportParameter("paraThanhTien", hd.Tongsotien.ToString());
-                
-                // Thiết lập tên của Report 
+
+            // Thiết lập tên của Report
             this.reportViewer1.LocalReport.ReportPath = "rptHoaDon.rdlc";
-                // Truyền tham số vào Report
+            
+            // Truyền tham số vào Report
             this.reportViewer1.LocalReport.SetParameters(param);
             
-             //Tạo dữ liệu nguồn, với danh sách chi tiết hóa đơn đã lấy từ Form Banghang.
+            
+            //Tạo dữ liệu nguồn, với danh sách chi tiết hóa đơn đã lấy từ Form Banghang.
             //Nhờ cái listRP_CTHD này mới có thế xuất CTHD ở list bên ReportCTHD [Design]
             var reportDataSource = new ReportDataSource("DataSetCTHD", listRP_CTHD);
             this.reportViewer1.LocalReport.DataSources.Clear();
@@ -62,6 +65,7 @@ namespace banhkem
 
         private void FrmReportCTHoaDon_KeyPress(object sender, KeyPressEventArgs e)
         {
+            // Nếu nhận enter thì sẽ đóng hóa đơn
             if (e.KeyChar == (char)13) this.Close();
 
         }
