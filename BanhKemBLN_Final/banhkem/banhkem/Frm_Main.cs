@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -23,8 +23,9 @@ namespace banhkem
             user = a; // Nhận dữ liệu nhân viên đăng nhập
         }
 
-        //Nhân viên bán hàng thì chỉ có công việc là bán hàng, không có quyền truy cập vào chức năng quản lý
-        //Nhân viên quản lý thì chỉ có công việc là quản lý, không được quyền tác động đến việc buôn bán
+        //Nhân viên bán hàng thì chỉ có công việc là bán hàng, nên khi đăng nhập thì chỉ có chức năng bán hàng
+        //Nhân viên quản lý thì chỉ có công việc là quản lý, nên khi đăng nhập thì chỉ có chức năng quản lý
+        //Nhân viên kế toán thì chỉ có công việc là kế toàn, nên khi đăng nhập thì chỉ có chức năng thống kê
         //Admin được quyền truy cập vào bất kỳ chức năng nào. Tuy nhiên vì yêu cầu bảo mật, chỉ nên có 1 Admin duy nhất trong trường hợp khẩn cấp
 
 
