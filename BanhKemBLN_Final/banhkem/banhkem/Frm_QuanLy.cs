@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -147,12 +147,12 @@ namespace banhkem
 
             foreach (var ncc in listNCC)
             {
-                // Ngay bat dau <= Ngay lap hoa don <= Ngay ket thuc
-                // Số thứ tự trên thực tế bắt đầu từ 1 nên j+1
+                
+
                 l++;
                 listView5.Items.Add(l.ToString());
-                listView5.Items[l - 1].SubItems.Add(ncc.MaNCC);// Dữ liệu hệ thống có thứ tự từ 0 nên ở đây
-                listView5.Items[l - 1].SubItems.Add(ncc.TenNCC);                 // mới là j
+                listView5.Items[l - 1].SubItems.Add(ncc.MaNCC);
+                listView5.Items[l - 1].SubItems.Add(ncc.TenNCC);             
                 listView5.Items[l - 1].SubItems.Add(ncc.SDT);
                 listView5.Items[l - 1].SubItems.Add(ncc.Email);
                 listView5.Items[l - 1].SubItems.Add(ncc.DiaChi);
@@ -777,7 +777,7 @@ namespace banhkem
             }
         }
 
-
+        // Nếu chọn xong ngày để xem hóa đơn thì hiện thông tin hóa đơn trong khoảng ngày đã chọn.
         private void dtpEndDay_ValueChanged(object sender, EventArgs e)
         {
             if (dtpStartDay.Value > dtpEndDay.Value)
@@ -789,6 +789,7 @@ namespace banhkem
             else BindGrid_listHD();
         }
 
+        // Nếu nhấp vào hóa đơn thì sẽ in ra Report chi tiết của hóa đơn đấy !
         private void listView4_ItemSelectionChanged(object sender, ListViewItemSelectionChangedEventArgs e)
         {
             List<ChiTietHoaDon> listCTHD = BanhkemDB.ChiTietHoaDons.ToList();
@@ -801,12 +802,14 @@ namespace banhkem
                 HoaDon temp = new HoaDon();
                 List<rptCTHD> listRPCTHD = new List<rptCTHD>();
 
+                // Tạo hóa đơn tạm chứ thông tin của hóa đơn đang xét. (để sau này gửi chung với chitiethoa đơn qua form Report)
                 foreach (HoaDon hd in listHD)
                 {
                     if (Convert.ToInt32(MaHD) == hd.MaHD)
                         temp = hd;
                 }
-
+                
+                // Nhờ vào mã hóa đơn để tìm được danh sách chi tiết các sản phẩm được mua trong hóa đơn ấy
                 foreach (ChiTietHoaDon cthd in listCTHD)
                 {
                     if (Convert.ToInt32(MaHD) == cthd.MaHD)
@@ -822,6 +825,7 @@ namespace banhkem
                     }
                 }
 
+                // Có thông tin hóa đơn + chi tiết của hóa đơn => Truyền vào form Report để xuất hóa đơn
                 FrmReportCTHoaDon f = new FrmReportCTHoaDon(temp, listRPCTHD);
                 f.ShowDialog();
                 this.Show();
@@ -829,6 +833,8 @@ namespace banhkem
 
             }
         }
+
+        //WARNING : DƯỚI ĐÂY LÀ CODE THAO TÁC VỚI DỮ LIỆU NHÀ CUNG CẤP
 
         private void btnClearNCC_Click(object sender, EventArgs e)
         {
@@ -853,7 +859,7 @@ namespace banhkem
                     MessageBox.Show("Bạn không thể thêm nếu như để trống một trường dữ liệu nào.", "Thông báo", MessageBoxButtons.OK);return;
                 }
                     
-                    // Khi nhập đủ rồi thì bắt đầu quá trình thêm NV vào database
+                    // Khi nhập đủ rồi thì bắt đầu quá trình thêm NCC vào database
                     NhaCungCap ncc_them = new NhaCungCap()
                     {
                         MaNCC =txtMaNCC.Text,
@@ -863,7 +869,7 @@ namespace banhkem
                         SDT = txtSDT_Ncc.Text,   
                     };
 
-                    // Nếu đã chọn Nam thì nv_them lấy giá trị là Nam. Còn ngược lại thì chỉ có thể là Nữ
+                   
                    
 
                     BanhkemDB.NhaCungCaps.Add(ncc_them);
@@ -884,8 +890,7 @@ namespace banhkem
         {
             try
             {
-                    // Vì mã SP trong database là kiểu int nên ta phải đổi nó lại rồi đi tìm trong database
-                    
+                   
                     var nhacc_xoa = BanhkemDB.NhaCungCaps.Find(txtMaNCC.Text);
 
                 //Khi tìm thấy thì thay đổi dữ liệu các thuộc tính của nó
@@ -895,7 +900,7 @@ namespace banhkem
                     BanhkemDB.NhaCungCaps.Remove(nhacc_xoa);
                     BanhkemDB.SaveChanges();
 
-                    // Thêm lại chữ "SP" để còn in vào ListView sau khi load lại,
+                  
 
                     Load_ListView(); BindGrid_listNCC();
                     MessageBox.Show("Xóa thành công !");
@@ -958,6 +963,8 @@ namespace banhkem
                 txtSDT_Ncc.Text = e.Item.SubItems[5].Text;
             }
         }
+
+        // Tra cứu hóa đơn muốn tìm hoặc các hóa đơn mà nhân viên đó lập ra
         private void txtTra_cuu_HD_TextChanged(object sender, EventArgs e)
         {
             int k = 0;
@@ -968,7 +975,8 @@ namespace banhkem
 
             foreach (var hoadon in listHD)
             {
-                // Ngay bat dau <= Ngay lap hoa don <= Ngay ket thuc
+                // So sánh mã hóa đơn và nhân viên lập hóa đơn đó.
+
                 if (hoadon.MaHD.ToString().ToLower().Contains(txtTra_cuu_HD.Text.ToLower())
                  || hoadon.NhanVien.TenNV.ToLower().Contains(txtTra_cuu_HD.Text.ToLower())
                     )     
@@ -986,6 +994,7 @@ namespace banhkem
             }
         }
 
+        // Tra cứu tên nguyên liệu
         private void txtTra_cuu_Nl_TextChanged(object sender, EventArgs e)
         {
             int j = 0;
@@ -994,6 +1003,9 @@ namespace banhkem
             //Xuất dữ liệu sản phẩm lên ListView3
             foreach (var nguyenlieu in listNL)
             {
+                // Chuyển chuỗi ký tự tra cứu về ký tự thường 
+                // Nếu Chuỗi ký tự tra cứu (viết thường) có tồn tại trong tên nguyên liệu (viết thường) và mã nguyên liệu
+                // Thì in ra
                 if ( nguyenlieu.TenNguyenLieu.ToLower().Contains(txtTra_cuu_Nl.Text.ToLower())
                    || nguyenlieu.MaNguyenLieu.ToString().ToLower().Contains(txtTra_cuu_Nl.Text.ToLower())
                    )
@@ -1022,6 +1034,10 @@ namespace banhkem
             //Xuất dữ liệu sản phẩm lên ListView2
             foreach (var sanpham in listSP)
             {
+                // Chuyển chuỗi ký tự tra cứu về ký tự thường 
+                // Nếu Chuỗi ký tự tra cứu (viết thường) có tồn tại trong tên sản phẩm (viết thường) và mã sản phẩm
+                // Thì in ra
+
                 if (sanpham.TenSP.ToLower().Contains(txtTra_cuu_SP.Text.ToLower())
                    || sanpham.MaSP.ToString().ToLower().Contains(txtTra_cuu_SP.Text.ToLower())
                    )
@@ -1048,6 +1064,10 @@ namespace banhkem
             //Xuất dữ liệu nhân viên lên ListView1
             foreach (var nhanvien in listNV)
             {
+                // Chuyển chuỗi ký tự tra cứu về ký tự thường 
+                // Nếu Chuỗi ký tự tra cứu (viết thường) có tồn tại trong tên nhân viên (viết thường) và mã nhân viên
+                // Thì in ra
+
                 if (nhanvien.TenNV.ToLower().Contains(txtTra_Cua_NV.Text.ToLower())
                    || nhanvien.MaNV.ToString().ToLower().Contains(txtTra_Cua_NV.Text.ToLower())
                    )
@@ -1085,6 +1105,10 @@ namespace banhkem
             //Xuất dữ liệu sản phẩm lên ListView3
             foreach (var ncc in listNCC)
             {
+                // Chuyển chuỗi ký tự tra cứu về ký tự thường 
+                // Nếu Chuỗi ký tự tra cứu (viết thường) có tồn tại trong tên nhà cung cấp (viết thường) và mã nhà cung cấp
+                // Thì in ra
+
                 if (ncc.TenNCC.ToLower().Contains(txtTracua_NCC.Text.ToLower())
                    || ncc.MaNCC.ToString().ToLower().Contains(txtTracua_NCC.Text.ToLower())
                    )
