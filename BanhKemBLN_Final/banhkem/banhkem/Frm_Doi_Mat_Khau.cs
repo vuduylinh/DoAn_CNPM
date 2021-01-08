@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -22,6 +22,7 @@ namespace banhkem
 
         public Frm_Doi_Mat_Khau(Model1 banhkem,NhanVien nguoidung)
         {
+            // Nhận dữ liệu được truyền từ Form trước và gán nó về giá trị ở form này
             InitializeComponent();
             BanhkemDB = banhkem;
             user = nguoidung;
@@ -29,7 +30,7 @@ namespace banhkem
 
         private void Frm_Doi_Mat_Khau_Load(object sender, EventArgs e)
         {
-            
+            // Bật chế độ mã hóa thành dấu ****
             txtMk_Moi.UseSystemPasswordChar = true;
             txtMK_cu.UseSystemPasswordChar = true;
             txtXacNhan_MKmoi.UseSystemPasswordChar = true;
@@ -37,6 +38,7 @@ namespace banhkem
 
         private void btnDoi_MK_Click(object sender, EventArgs e)
         {
+
             lblNotification.Visible = true;
             if (txtMK_cu.Text != user.Matkhau)
             {
@@ -45,6 +47,9 @@ namespace banhkem
                     
             if (txtMk_Moi.Text == txtXacNhan_MKmoi.Text)
             {
+                // Dùng mã NV của người dùng để tìm kiếm trong database
+                // Nếu tìm thấy thì đối chiếu mật khẩu để xác nhận
+
                 var nhanvien_doimk = BanhkemDB.NhanViens.Find(user.MaNV);
 
                 if (nhanvien_doimk != null)
@@ -64,17 +69,20 @@ namespace banhkem
 
         private void txtXacNhan_MKmoi_TextChanged(object sender, EventArgs e)
         {
+            // Mỗi khi gõ chữ thì cách tích xanh/ đỏ sẽ ẩn đi
             pB3_No_txtXacNhan_MKmoi.Visible = false;
             pB3_Yes_txtXacNhan_MKmoi.Visible = false;
             pB2_Yes_txtMk_Moi.Visible = false;
             pB2_No_txtMk_Moi.Visible = false;
 
+
+            //Nếu so sánh sai thì hiện tích đỏ (NO)
             if (txtMk_Moi.Text != txtXacNhan_MKmoi.Text )
             {
                 pB3_No_txtXacNhan_MKmoi.Visible = true;
                 pB3_No_txtXacNhan_MKmoi.Visible = true;
             }
-            else
+            else //Nếu so sánh đúng thì hiện tích xanh (YES)
             {
                 pB2_Yes_txtMk_Moi.Visible = true;
                 pB3_Yes_txtXacNhan_MKmoi.Visible = true;
