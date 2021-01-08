@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{026D42C4-AED4-47CF-A64B-615C1DDCFD48}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>banhkem</RootNamespace>
+    <AssemblyName>banhkem</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.WebForms.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CaLamViec.cs" />
+    <Compile Include="ChiTietHoaDon.cs" />
+    <Compile Include="ChucVu.cs" />
+    <Compile Include="CTDBSIZE_bk2DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CTDBSIZE_bk2DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReportCTHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReportCTHoaDon.Designer.cs">
+      <DependentUpon>FrmReportCTHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReportDoanhThuHD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReportDoanhThuHD.Designer.cs">
+      <DependentUpon>FrmReportDoanhThuHD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Banghang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Banghang.Designer.cs">
+      <DependentUpon>Frm_Banghang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Dangnhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Dangnhap.Designer.cs">
+      <DependentUpon>Frm_Dangnhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Doi_Mat_Khau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Doi_Mat_Khau.Designer.cs">
+      <DependentUpon>Frm_Doi_Mat_Khau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Lay_LaiMK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Lay_LaiMK.Designer.cs">
+      <DependentUpon>frm_Lay_LaiMK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Main.Designer.cs">
+      <DependentUpon>Frm_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_QuanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_QuanLy.Designer.cs">
+      <DependentUpon>Frm_QuanLy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_themSoluong_Mon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_themSoluong_Mon.Designer.cs">
+      <DependentUpon>Frm_themSoluong_Mon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ThongKe.Designer.cs">
+      <DependentUpon>Frm_ThongKe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_xemthongtinNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_xemthongtinNV.Designer.cs">
+      <DependentUpon>Frm_xemthongtinNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoaDon.cs" />
+    <Compile Include="LoaiNguyenLieu.cs" />
+    <Compile Include="Model1.cs" />
+    <Compile Include="NguyenLieu.cs" />
+    <Compile Include="NhaCungCap.cs" />
+    <Compile Include="NhanVien.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rptChiPhiNguyenLieu.cs" />
+    <Compile Include="rptDoanhThuHoaDon.cs" />
+    <Compile Include="rptCTHD.cs" />
+    <Compile Include="SanPham.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="FrmReportCTHoaDon.resx">
+      <DependentUpon>FrmReportCTHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReportDoanhThuHD.resx">
+      <DependentUpon>FrmReportDoanhThuHD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Banghang.resx">
+      <DependentUpon>Frm_Banghang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Dangnhap.resx">
+      <DependentUpon>Frm_Dangnhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Doi_Mat_Khau.resx">
+      <DependentUpon>Frm_Doi_Mat_Khau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Lay_LaiMK.resx">
+      <DependentUpon>frm_Lay_LaiMK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Main.resx">
+      <DependentUpon>Frm_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_QuanLy.resx">
+      <DependentUpon>Frm_QuanLy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_themSoluong_Mon.resx">
+      <DependentUpon>Frm_themSoluong_Mon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ThongKe.resx">
+      <DependentUpon>Frm_ThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_xemthongtinNV.resx">
+      <DependentUpon>Frm_xemthongtinNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="rptChiPhiNguyenLieu.rdlc" />
+    <EmbeddedResource Include="rptDoanhThuHoaDon.rdlc" />
+    <EmbeddedResource Include="rptHoaDon.rdlc" />
+    <None Include="App.Config" />
+    <None Include="CTDBSIZE_bk2DataSet1.xsc">
+      <DependentUpon>CTDBSIZE_bk2DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="CTDBSIZE_bk2DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CTDBSIZE_bk2DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CTDBSIZE_bk2DataSet1.xss">
+      <DependentUpon>CTDBSIZE_bk2DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\FrmReportCTHoaDon.datasource" />
+    <None Include="Properties\DataSources\rptChiPhiNguyenLieu.datasource" />
+    <None Include="Properties\DataSources\rptCTHD.datasource" />
+    <None Include="Properties\DataSources\rptDoanhThuHoaDon.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dep.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconlogin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconlogin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\okhoa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconlogin1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\okhoa1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\okok.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bkemlogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bkemlogo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dassd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dassd1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hinhnen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hinhnen1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bill.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bill1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\okluon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\okluon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\okluon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\okluon11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bil11l.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-ql.png" />
+    <None Include="Resources\icon-ql1.png" />
+    <None Include="Resources\thongke-.jpg" />
+    <None Include="Resources\thongke-.png" />
+    <None Include="Resources\thongke-1.png" />
+    <None Include="Resources\okdep.png" />
+    <None Include="Resources\depquadi.jpg" />
+    <None Include="Resources\depquadi1.jpg" />
+    <None Include="Resources\Vdo.png" />
+    <None Include="Resources\Vxanh.png" />
+    <None Include="Resources\Vxanh1.png" />
+    <None Include="Resources\Vdo1.png" />
+    <None Include="Resources\find.png" />
+    <None Include="Resources\find1.png" />
+    <None Include="Resources\find2.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>
