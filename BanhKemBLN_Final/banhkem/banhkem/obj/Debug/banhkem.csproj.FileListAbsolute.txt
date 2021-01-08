@@ -1,0 +1,289 @@
+D:\CODE\Đồ Án C#\banhkem\banhkem\obj\Debug\banhkem.csprojAssemblyReference.cache
+D:\CODE\Đồ Án C#\banhkem\banhkem\obj\Debug\banhkem.Properties.Resources.resources
+D:\CODE\Đồ Án C#\banhkem\banhkem\obj\Debug\banhkem.csproj.GenerateResource.cache
+D:\CODE\Đồ Án C#\banhkem\banhkem\obj\Debug\banhkem.csproj.CoreCompileInputs.cache
+D:\CODE\Đồ Án C#\banhkem\banhkem\bin\Debug\banhkem.exe.config
+D:\CODE\Đồ Án C#\banhkem\banhkem\bin\Debug\banhkem.exe
+D:\CODE\Đồ Án C#\banhkem\banhkem\bin\Debug\banhkem.pdb
+D:\CODE\Đồ Án C#\banhkem\banhkem\obj\Debug\banhkem.exe
+D:\CODE\Đồ Án C#\banhkem\banhkem\obj\Debug\banhkem.pdb
+D:\CODE\Đồ Án C#\banhkem\banhkem\obj\Debug\banhkem.Frm_Dangnhap.resources
+D:\CODE\Đồ Án C#\banhkem\banhkem\obj\Debug\banhkem.Frm_Banghang.resources
+D:\CODE\Đồ Án C#\banhkem\banhkem\obj\Debug\banhkem.Frm_Main.resources
+D:\CODE\Đồ Án C#\banhkem\banhkem\obj\Debug\banhkem.Frm_QuanLy.resources
+D:\CODE\Đồ Án C#\banhkem\banhkem\obj\Debug\banhkem.Frm_ThongKe.resources
+E:\Downloads\banhkem\banhkem\bin\Debug\banhkem.exe.config
+E:\Downloads\banhkem\banhkem\bin\Debug\banhkem.exe
+E:\Downloads\banhkem\banhkem\bin\Debug\banhkem.pdb
+E:\Downloads\banhkem\banhkem\obj\Debug\banhkem.csprojAssemblyReference.cache
+E:\Downloads\banhkem\banhkem\obj\Debug\banhkem.Frm_Banghang.resources
+E:\Downloads\banhkem\banhkem\obj\Debug\banhkem.Frm_Dangnhap.resources
+E:\Downloads\banhkem\banhkem\obj\Debug\banhkem.Frm_Main.resources
+E:\Downloads\banhkem\banhkem\obj\Debug\banhkem.Frm_QuanLy.resources
+E:\Downloads\banhkem\banhkem\obj\Debug\banhkem.Frm_ThongKe.resources
+E:\Downloads\banhkem\banhkem\obj\Debug\banhkem.Properties.Resources.resources
+E:\Downloads\banhkem\banhkem\obj\Debug\banhkem.csproj.GenerateResource.cache
+E:\Downloads\banhkem\banhkem\obj\Debug\banhkem.csproj.CoreCompileInputs.cache
+E:\Downloads\banhkem\banhkem\obj\Debug\banhkem.exe
+E:\Downloads\banhkem\banhkem\obj\Debug\banhkem.pdb
+E:\Downloads\banhkem\banhkem\bin\Debug\EntityFramework.dll
+E:\Downloads\banhkem\banhkem\bin\Debug\EntityFramework.SqlServer.dll
+E:\Downloads\banhkem\banhkem\bin\Debug\EntityFramework.xml
+E:\Downloads\banhkem\banhkem\bin\Debug\EntityFramework.SqlServer.xml
+E:\Downloads\banhkem\banhkem\obj\Debug\banhkem.csproj.CopyComplete
+C:\Users\84948\Downloads\banhkem\banhkem\bin\Debug\banhkem.exe.config
+C:\Users\84948\Downloads\banhkem\banhkem\bin\Debug\banhkem.exe
+C:\Users\84948\Downloads\banhkem\banhkem\bin\Debug\banhkem.pdb
+C:\Users\84948\Downloads\banhkem\banhkem\bin\Debug\EntityFramework.dll
+C:\Users\84948\Downloads\banhkem\banhkem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\84948\Downloads\banhkem\banhkem\bin\Debug\EntityFramework.xml
+C:\Users\84948\Downloads\banhkem\banhkem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\84948\Downloads\banhkem\banhkem\obj\Debug\banhkem.csprojAssemblyReference.cache
+C:\Users\84948\Downloads\banhkem\banhkem\obj\Debug\banhkem.Frm_Banghang.resources
+C:\Users\84948\Downloads\banhkem\banhkem\obj\Debug\banhkem.Frm_Dangnhap.resources
+C:\Users\84948\Downloads\banhkem\banhkem\obj\Debug\banhkem.Frm_Main.resources
+C:\Users\84948\Downloads\banhkem\banhkem\obj\Debug\banhkem.Frm_QuanLy.resources
+C:\Users\84948\Downloads\banhkem\banhkem\obj\Debug\banhkem.Frm_ThongKe.resources
+C:\Users\84948\Downloads\banhkem\banhkem\obj\Debug\banhkem.Properties.Resources.resources
+C:\Users\84948\Downloads\banhkem\banhkem\obj\Debug\banhkem.csproj.GenerateResource.cache
+C:\Users\84948\Downloads\banhkem\banhkem\obj\Debug\banhkem.csproj.CoreCompileInputs.cache
+C:\Users\84948\Downloads\banhkem\banhkem\obj\Debug\banhkem.csproj.CopyComplete
+C:\Users\84948\Downloads\banhkem\banhkem\obj\Debug\banhkem.exe
+C:\Users\84948\Downloads\banhkem\banhkem\obj\Debug\banhkem.pdb
+C:\Users\84948\Documents\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\bin\Debug\banhkem.exe.config
+C:\Users\84948\Documents\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\bin\Debug\banhkem.exe
+C:\Users\84948\Documents\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\bin\Debug\banhkem.pdb
+C:\Users\84948\Documents\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\bin\Debug\EntityFramework.dll
+C:\Users\84948\Documents\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\84948\Documents\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\bin\Debug\EntityFramework.xml
+C:\Users\84948\Documents\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\84948\Documents\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.csprojAssemblyReference.cache
+C:\Users\84948\Documents\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Frm_Banghang.resources
+C:\Users\84948\Documents\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Frm_Dangnhap.resources
+C:\Users\84948\Documents\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Frm_Main.resources
+C:\Users\84948\Documents\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Frm_QuanLy.resources
+C:\Users\84948\Documents\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Frm_ThongKe.resources
+C:\Users\84948\Documents\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Properties.Resources.resources
+C:\Users\84948\Documents\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.csproj.GenerateResource.cache
+C:\Users\84948\Documents\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.csproj.CoreCompileInputs.cache
+C:\Users\84948\Documents\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.csproj.CopyComplete
+C:\Users\84948\Documents\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.exe
+C:\Users\84948\Documents\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.pdb
+C:\Users\84948\Documents\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Frm_xemthongtinNV.resources
+C:\Users\84948\Documents\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Frm_themSoluong_Mon.resources
+E:\Downloads\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.csprojAssemblyReference.cache
+E:\Downloads\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Frm_Banghang.resources
+E:\Downloads\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Frm_Dangnhap.resources
+E:\Downloads\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Frm_Main.resources
+E:\Downloads\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Frm_QuanLy.resources
+E:\Downloads\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Frm_themSoluong_Mon.resources
+E:\Downloads\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Frm_ThongKe.resources
+E:\Downloads\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Frm_xemthongtinNV.resources
+E:\Downloads\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Properties.Resources.resources
+E:\Downloads\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.csproj.GenerateResource.cache
+E:\Downloads\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.csproj.CoreCompileInputs.cache
+E:\Downloads\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.exe
+E:\Downloads\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.pdb
+E:\Downloads\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\bin\Debug\banhkem.exe.config
+E:\Downloads\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\bin\Debug\banhkem.exe
+E:\Downloads\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\bin\Debug\banhkem.pdb
+E:\Downloads\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\bin\Debug\EntityFramework.dll
+E:\Downloads\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\bin\Debug\EntityFramework.SqlServer.dll
+E:\Downloads\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\bin\Debug\EntityFramework.xml
+E:\Downloads\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\bin\Debug\EntityFramework.SqlServer.xml
+E:\Downloads\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.csproj.CopyComplete
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.csprojAssemblyReference.cache
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.exe
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.pdb
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\bin\Debug\banhkem.exe.config
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\bin\Debug\banhkem.exe
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\bin\Debug\banhkem.pdb
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\bin\Debug\EntityFramework.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\bin\Debug\EntityFramework.xml
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Frm_Banghang.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Frm_Dangnhap.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Frm_Main.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Frm_QuanLy.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Frm_themSoluong_Mon.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Frm_ThongKe.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Frm_xemthongtinNV.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.Properties.Resources.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.csproj.GenerateResource.cache
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.csproj.CoreCompileInputs.cache
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH)\banhkem\banhkem\obj\Debug\banhkem.csproj.CopyComplete
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\banhkem.exe.config
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\banhkem.exe
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\banhkem.pdb
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\EntityFramework.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\EntityFramework.xml
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\obj\Debug\banhkem.csprojAssemblyReference.cache
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\obj\Debug\banhkem.Frm_Banghang.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\obj\Debug\banhkem.Frm_Dangnhap.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\obj\Debug\banhkem.Frm_Main.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\obj\Debug\banhkem.Frm_QuanLy.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\obj\Debug\banhkem.Frm_themSoluong_Mon.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\obj\Debug\banhkem.Frm_ThongKe.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\obj\Debug\banhkem.Frm_xemthongtinNV.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\obj\Debug\banhkem.Properties.Resources.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\obj\Debug\banhkem.csproj.GenerateResource.cache
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\obj\Debug\RdlCompile.cache
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\obj\Debug\RdlCompile.compiled
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\obj\Debug\banhkem.csproj.CoreCompileInputs.cache
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\obj\Debug\banhkem.csproj.CopyComplete
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\obj\Debug\banhkem.exe
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\obj\Debug\banhkem.pdb
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\obj\Debug\banhkem.FrmReportCTHoaDon.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\EnvDTE.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\stdole.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\Microsoft.MSXML.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\obj\Debug\banhkem.exe.config
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\obj\Debug\banhkem.FrmReportDoanhThuHD.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\obj\Debug\banhkem.Frm_Doi_Mat_Khau.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\Banh_Kem_DA(DUYLINH) - Copy\banhkem\banhkem\obj\Debug\banhkem.frm_Lay_LaiMK.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\banhkem.exe.config
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\banhkem.exe
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\banhkem.pdb
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\EntityFramework.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\EnvDTE.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\stdole.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\Microsoft.MSXML.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\EntityFramework.xml
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\obj\Debug\banhkem.csprojAssemblyReference.cache
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\obj\Debug\banhkem.exe.config
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\obj\Debug\banhkem.FrmReportCTHoaDon.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\obj\Debug\banhkem.FrmReportDoanhThuHD.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\obj\Debug\banhkem.Frm_Banghang.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\obj\Debug\banhkem.Frm_Dangnhap.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\obj\Debug\banhkem.Frm_Doi_Mat_Khau.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\obj\Debug\banhkem.frm_Lay_LaiMK.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\obj\Debug\banhkem.Frm_Main.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\obj\Debug\banhkem.Frm_QuanLy.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\obj\Debug\banhkem.Frm_themSoluong_Mon.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\obj\Debug\banhkem.Frm_ThongKe.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\obj\Debug\banhkem.Frm_xemthongtinNV.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\obj\Debug\banhkem.Properties.Resources.resources
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\obj\Debug\banhkem.csproj.GenerateResource.cache
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\obj\Debug\RdlCompile.cache
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\obj\Debug\RdlCompile.compiled
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\obj\Debug\banhkem.csproj.CoreCompileInputs.cache
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\obj\Debug\banhkem.csproj.CopyComplete
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\obj\Debug\banhkem.exe
+C:\Users\84948\Desktop\5-1-21-CNPM\BanhKemBLN_Final\banhkem\banhkem\obj\Debug\banhkem.pdb
