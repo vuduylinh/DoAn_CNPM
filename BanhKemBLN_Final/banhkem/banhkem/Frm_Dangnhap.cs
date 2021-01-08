@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -24,6 +24,7 @@ namespace banhkem
         {
             InitializeComponent();
         }
+
 
         private void chbxHienMK_CheckedChanged(object sender, EventArgs e)
         {
@@ -99,7 +100,7 @@ namespace banhkem
 
         private void label4_Click(object sender, EventArgs e)
         {
-            frm_Lay_LaiMK f = new frm_Lay_LaiMK(listNV);
+            frm_Lay_LaiMK f = new frm_Lay_LaiMK(listNV); // Truyen du lieu danh sach nhan vien qua Frm_Lay_LaiMK de so sánh
             this.Hide();
             f.ShowDialog();
             this.Show();
