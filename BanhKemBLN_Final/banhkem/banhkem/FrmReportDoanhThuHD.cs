@@ -36,10 +36,13 @@ namespace banhkem
 
         private void FrmReportDoanhThuHD_Load(object sender, EventArgs e)
         {
+              //Tạo tham số để sau này truyền vào Report
             ReportParameter[] param = new ReportParameter[2];
             param[0] = new ReportParameter("paraNgayGio", DateTime.Now.ToString("dd/MM/yyyy"));
             param[1] = new ReportParameter("paraTenNV", NguoiLap);
-
+             // Nếu danh sách chi phí nguyên liệu ko có gì => Điều đó có nghĩa là người dùng đã click vào "Xem chi tiết hóa đơn"
+            // Vì nhờ sự kiện click "Xem chi phí hóa đơn" ở form thống kê nên đã gửi dữ liệu listRP_DTHD
+            // =>>> listRP_CPNL không có gì cả nên count nó == 0
             if (listRP_CPNL.Count == 0)
             {
                 this.reportViewer1.LocalReport.ReportPath = "rptDoanhThuHoaDon.rdlc";
@@ -51,7 +54,7 @@ namespace banhkem
                 return;
             }    
             else
-            
+               // Tương tự ở trên nhưng lần này là click vào "Xem chi phí nguyên liệu"
             {
                 this.reportViewer1.LocalReport.ReportPath = "rptChiPhiNguyenLieu.rdlc";
                 this.reportViewer1.LocalReport.SetParameters(param);
