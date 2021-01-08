@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="CTDBSIZE_bk2DataSet" targetNamespace="http://tempuri.org/CTDBSIZE_bk2DataSet1.xsd" xmlns:mstns="http://tempuri.org/CTDBSIZE_bk2DataSet1.xsd" xmlns="http://tempuri.org/CTDBSIZE_bk2DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="CTDBSIZE_bk2ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="CTDBSIZE_bk2ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.banhkem.Properties.Settings.GlobalReference.Default.CTDBSIZE_bk2ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="REPORT_CHITIETHOADONTableAdapter" GeneratorDataComponentClassName="REPORT_CHITIETHOADONTableAdapter" Name="REPORT_CHITIETHOADON" UserDataComponentName="REPORT_CHITIETHOADONTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="CTDBSIZE_bk2ConnectionString (Settings)" DbObjectName="CTDBSIZE_bk2.dbo.REPORT_CHITIETHOADON" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT SoHD, Ten, Gia, SL, ThanhTien FROM dbo.REPORT_CHITIETHOADON</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="SoHD" DataSetColumn="SoHD" />
+              <Mapping SourceColumn="Ten" DataSetColumn="Ten" />
+              <Mapping SourceColumn="Gia" DataSetColumn="Gia" />
+              <Mapping SourceColumn="SL" DataSetColumn="SL" />
+              <Mapping SourceColumn="ThanhTien" DataSetColumn="ThanhTien" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="CTDBSIZE_bk2DataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="CTDBSIZE_bk2DataSet" msprop:Generator_UserDSName="CTDBSIZE_bk2DataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="REPORT_CHITIETHOADON" msprop:Generator_TableClassName="REPORT_CHITIETHOADONDataTable" msprop:Generator_TableVarName="tableREPORT_CHITIETHOADON" msprop:Generator_TablePropName="REPORT_CHITIETHOADON" msprop:Generator_RowDeletingName="REPORT_CHITIETHOADONRowDeleting" msprop:Generator_RowChangingName="REPORT_CHITIETHOADONRowChanging" msprop:Generator_RowEvHandlerName="REPORT_CHITIETHOADONRowChangeEventHandler" msprop:Generator_RowDeletedName="REPORT_CHITIETHOADONRowDeleted" msprop:Generator_UserTableName="REPORT_CHITIETHOADON" msprop:Generator_RowChangedName="REPORT_CHITIETHOADONRowChanged" msprop:Generator_RowEvArgName="REPORT_CHITIETHOADONRowChangeEvent" msprop:Generator_RowClassName="REPORT_CHITIETHOADONRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SoHD" msprop:Generator_ColumnVarNameInTable="columnSoHD" msprop:Generator_ColumnPropNameInRow="SoHD" msprop:Generator_ColumnPropNameInTable="SoHDColumn" msprop:Generator_UserColumnName="SoHD" type="xs:int" />
+              <xs:element name="Ten" msprop:Generator_ColumnVarNameInTable="columnTen" msprop:Generator_ColumnPropNameInRow="Ten" msprop:Generator_ColumnPropNameInTable="TenColumn" msprop:Generator_UserColumnName="Ten">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Gia" msprop:Generator_ColumnVarNameInTable="columnGia" msprop:Generator_ColumnPropNameInRow="Gia" msprop:Generator_ColumnPropNameInTable="GiaColumn" msprop:Generator_UserColumnName="Gia" type="xs:decimal" />
+              <xs:element name="SL" msprop:Generator_ColumnVarNameInTable="columnSL" msprop:Generator_ColumnPropNameInRow="SL" msprop:Generator_ColumnPropNameInTable="SLColumn" msprop:Generator_UserColumnName="SL" type="xs:int" minOccurs="0" />
+              <xs:element name="ThanhTien" msprop:Generator_ColumnVarNameInTable="columnThanhTien" msprop:Generator_ColumnPropNameInRow="ThanhTien" msprop:Generator_ColumnPropNameInTable="ThanhTienColumn" msprop:Generator_UserColumnName="ThanhTien" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
